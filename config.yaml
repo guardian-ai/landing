@@ -14,8 +14,8 @@ markup:
 params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
-  # Used as meta data; describe your site to make Google Bots happy 
-  description: 
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/fresh.svg
@@ -31,7 +31,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "/extension/rectangle-0.1.1-an+fx.xpi"
+    buttonlink: "/extension/rectangle-0.1.2-an+fx.xpi"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -77,7 +77,7 @@ params:
     - title: Add-ons & plugins
       icon: plug-cloud
       text: This is some explanatory text that is on two rows
-      url: /extension/rectangle-0.1.1-an+fx.xpi
+      url: /extension/rectangle-0.1.2-an+fx.xpi
       buttonText: Get started
   section2:
     title: You're here because you want the best
