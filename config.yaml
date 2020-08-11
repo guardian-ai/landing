@@ -1,6 +1,6 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Rectangle
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
@@ -25,11 +25,11 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Manage. Deploy.
+    title: Explore. Find.
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    subtitle: Take control of your social media with Rectangle. Stop wasting time. Start discovering content you love!
     # Button text
-    buttontext: Get started
+    buttontext: Add to Firefox
     # Where the main hero button links to
     buttonlink: "/extension/rectangle-0.1.2-an+fx.xpi"
     # Hero image (from static/images/___)
@@ -61,24 +61,24 @@ params:
     url: /
     button: true
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
+    title: Our Services
+    subtitle: for a better internet
     tiles:
-    - title: App builder
+    - title: Content Vetting
       icon: mouse-globe
-      text: This is some explanatory text that is on two rows
+      text: Ensure your ads appear where you want them to.
       url: /
       buttonText: Free trial
-    - title: Cloud integration
+    - title: Recommendation API
       icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
+      text: Incorporate recommendation into your application.
       url: /
       buttonText: Get started
-    - title: Add-ons & plugins
+    - title: Browser Extension
       icon: plug-cloud
-      text: This is some explanatory text that is on two rows
+      text: Decide what content you want to see on your terms.
       url: /extension/rectangle-0.1.2-an+fx.xpi
-      buttonText: Get started
+      buttonText: Download Now
   section2:
     title: You're here because you want the best
     subtitle: And we know it
